@@ -1,0 +1,2 @@
+-r requirements.txt
+pytorch-tabnet==4.1.0
